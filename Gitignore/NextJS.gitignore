@@ -1,0 +1,6 @@
+### NextJS ###
+# Next build dir
+.next/
+
+node_modules
+package-lock.json
